@@ -1,0 +1,5 @@
+*.class
+*.txt
+
+!readme.txt
+!note.txt
